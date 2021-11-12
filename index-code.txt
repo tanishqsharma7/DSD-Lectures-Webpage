@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> DSD Lectures </title>
+</head>
+<body style="background-color:#FFE4C4;">
+<h1 style="color:green"> Hi, Welcome to my Webpage !😎</h1>
+<hr/>
+<hr/>
+<p> Here you will find everything related to DSD.<br>
+DSD stands for Digital System Design and is taught by Mrs.Kusum Dalal</p>
+<p> We have uploaded youtube recorded lectures and notes pdf for your help </p>
+<p><h2><b><u> Lecture 1: </u></b></h2> <a href="https://drive.google.com/file/d/1qknlriApS9H5IlhK3KBnGxYZegR9_5by/view?usp=sharing" target="_blank">Lecture 1 Notes</a></p>
+<iframe height="300" src="https://www.youtube.com/embed/2MoG2vqgDpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/qnuCRP0OgGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/9HAQjOyRDmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 2: </u></b></h2><a href="https://drive.google.com/file/d/1akakiJV-EWWboLlqHFIx9OMmAxXLtJp_/view?usp=sharing target="_blank">Lecture 2 Notes</a></p>
+<iframe height="300" src="https://www.youtube.com/embed/puqntUu_y9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/6ZfrCC0FcaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 3: </u></b></h2><a href="https://drive.google.com/file/d/1Zp8BKvUcIA-7GpgySx9s3Jj9meP-zx9c/view?usp=sharing" target="_blank">Lecture 3 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/Vlpe1470ArI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/4KpHRM9PYdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 4: </u></b></h2><a href="https://drive.google.com/file/d/1eGfPIDcMFQZQjiGXbSIRCqi-PpzKlFcY/view?usp=sharing" target="_blank">Lecture 4 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/BTpfVSzTqLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/ogB4k0AVZ9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 5: </u></b></h2><a href="https://drive.google.com/file/d/1rYZr3yC8Ay8vQ87J2Kx0Qdvn1oyMJgUc/view?usp=sharing" target="_blank">Lecture 5 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/7d1HYSjfTbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/0zXhDr186SE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 6: </u></b></h2><a href="https://drive.google.com/file/d/1nOP-Dfktbi84kHoylgrVomsblnp6NFNx/view?usp=sharing" target="_blank">Lecture 6 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/815kvIEBKuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/t9A1CLl3kYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 7: </u></b></h2><a href="https://drive.google.com/file/d/1knfCN1o1wNQUXMqijpukgYMfRfJZOzXP/view?usp=sharing" target="_blank">Lecture 7 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/lD7G6R2ubyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/e0I01YvO4vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/V9QkjRS0BKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/xNwAcijUUGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 8: </u></b></h2><a href="https://drive.google.com/file/d/1Kn7eeW8nGH9Vukkds9pF_flFRgi1Ja9W/view?usp=sharing" target="_blank">Lecture 8 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/KGJYjUJH_m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/ynWHfmqecSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/sT-coivWT4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 9: </u></b></h2><a href="https://drive.google.com/file/d/1602KdMuK-WBUSj2bcw-Vmc_9hAn_Mzn3/view?usp=sharing" target="_blank">Lecture 9 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/Tx3JH6j5wy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/Q3nIV9FWluk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 10: </u></b></h2><a href="https://drive.google.com/file/d/1Wyed55h5kK-hOZGlM-KMYYErSf5haMkL/view?usp=sharing" target="_blank">Lecture 10 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/0CHN4oXcZAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/Tz43Ayc3twI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 11: </u></b></h2><a href="https://drive.google.com/file/d/1d_jY_0tcFeUNG-jccWSbr8hHSv8Zzvex/view?usp=sharing" target="_blank">Lecture 11 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/fUTRU5Qwzuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/fDx94lEsi1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 12: </u></b></h2><a href="https://drive.google.com/file/d/1dakFVyjbVpgxBDMeau7bpZngnhPQhW2E/view?usp=sharing" target="_blank">Lecture 12 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/X5NAvVqUhuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/MyYoVpTtCCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/0QIAUtF_TQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 13: </u></b></h2><a href="https://drive.google.com/file/d/12o9nMevUM5pPGspdJwlMrv91iqpfFrbl/view?usp=sharing" target="_blank">Lecture 13 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/BDcK_ulglkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/E-wx4BWSnfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><h2><b><u> Lecture 14: </u></b></h2><a href="https://drive.google.com/file/d/13rc59xqSfsXQ4q0l8obhKHcr6ergECmm/view?usp=sharing" target="_blank">Lecture 14 Notes </a></p>
+<iframe height="300" src="https://www.youtube.com/embed/bIRNW_kn5jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/V4dX_9dL890" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/ypktu-joGNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="300" src="https://www.youtube.com/embed/hWVU30dlIHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</head>
+</html>
